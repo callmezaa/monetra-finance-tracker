@@ -5,6 +5,10 @@
 <p align="center">
   <img src="screenshots/login.png" width="45%" alt="Login Page" />
   <img src="screenshots/dashboard.png" width="45%" alt="Dashboard Page" />
+  <img src="screenshots/transactions.png" width="45%" alt="Transactions Page" />
+  <img src="screenshots/categories.png" width="45%" alt="Categories Page" />
+  <img src="screenshots/reports.png" width="45%" alt="Reports Page" />
+  <img src="screenshots/budgets.png" width="45%" alt="Budgets Page" />
 </p>
 
 A premium, modern web application to track your income, expenses, budgets, and savings goals. Built with a powerful Go backend and a sleek React frontend.
