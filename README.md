@@ -1,5 +1,12 @@
 # Personal Finance Tracker
 
+![Dashboard Preview](screenshots/dashboard.png)
+
+<p align="center">
+  <img src="screenshots/login.png" width="45%" alt="Login Page" />
+  <img src="screenshots/dashboard.png" width="45%" alt="Dashboard Page" />
+</p>
+
 A premium, modern web application to track your income, expenses, budgets, and savings goals. Built with a powerful Go backend and a sleek React frontend.
 
 ## ✨ Features
