@@ -9,6 +9,9 @@
   <img src="screenshots/categories.png" width="45%" alt="Categories Page" />
   <img src="screenshots/reports.png" width="45%" alt="Reports Page" />
   <img src="screenshots/budgets.png" width="45%" alt="Budgets Page" />
+  <img src="screenshots/goals.png" width="45%" alt="Goals Page" />
+  <img src="screenshots/recurring.png" width="45%" alt="Recurring Page" />
+  <img src="screenshots/settings.png" width="45%" alt="Settings Page" />
 </p>
 
 A premium, modern web application to track your income, expenses, budgets, and savings goals. Built with a powerful Go backend and a sleek React frontend.
